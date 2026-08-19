@@ -1,2 +1,5 @@
-base_system/
+base_system/*
+!base_system/case59.m
+!base_system/case68.m
+!base_system/case189.m
 archive/
